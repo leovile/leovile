@@ -7,5 +7,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/leonardo-vilela95/ or https://www.instagram.com/leovile
 - ⚡ Fun fact: I'm a mechanical engineer!
 
-![Leonardo Vilela GitHub stats](https://github-readme-stats.vercel.app/api?username=leovile&show_icons=true&theme=dracula)
+![Leonardo Vilela GitHub stats](https://github-readme-stats.vercel.app/api?username=leovile&show_icons=true&theme=react)
 

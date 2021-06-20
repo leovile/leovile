@@ -8,4 +8,5 @@
 - ⚡ Fun fact: I'm a mechanical engineer!
 
 ![Leonardo Vilela GitHub stats](https://github-readme-stats.vercel.app/api?username=leovile&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovile)](https://github.com/leovile/github-readme-stats)
 

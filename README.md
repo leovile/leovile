@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Leo! 👋
 
 
 - 🔭 I’m currently working on a recipe app!

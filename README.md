@@ -1,7 +1,7 @@
 ### Hi there, I'm Leo! 👋
 
 
-- 🔭 I’m currently working at Leadsoft soluções web
+- 🔭 I’m currently working at Leadsoft Soluções Web
 - 🌱 I’m currently learning JavaScript and React
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/leonardo-vilela95/

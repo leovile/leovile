@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at Leadsoft Soluções Web
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning React and Nextjs
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/leonardo-vilela95/
 - ⚡ Fun fact: I'm a mechanical engineer!

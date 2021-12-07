@@ -1,8 +1,8 @@
 ### Hi there, I'm Leo! 👋
 
 
-- 🔭 I’m currently working at Leadsoft Soluções Web
-- 🌱 I’m currently learning React and Nextjs
+- 🔭 I’m currently working at Alexandria as a Front-End Developer.
+- 🌱 I’m currently learning Ruby on rails.
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/leonardo-vilela95/
 - ⚡ Fun fact: I'm a mechanical engineer!

@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at Alexandria as a Front-End Developer.
-- 🌱 I’m currently learning Ruby on rails.
+- 🌱 I’m currently learning React Native.
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/leonardo-vilela95/
 - ⚡ Fun fact: I'm a mechanical engineer!
